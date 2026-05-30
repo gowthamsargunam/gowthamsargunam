@@ -24,44 +24,6 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class GowthamSargunam:
-    def __init__(self):
-        self.name        = "Gowtham Sargunam"
-        self.role        = "Jr. Analyst — Data Analytics & AI"
-        self.location    = "Salem, Tamil Nadu, India"
-        self.degree      = "M.S. in Data Science, Periyar University"
-        self.email       = "gowthamsargunam1@gmail.com"
-        self.github      = "github.com/gowthamsargunam"
-
-        self.stack = [
-            "Python", "SQL", "QGIS",
-            "PyTorch", "YOLOv5", "FastAPI",
-            "Streamlit", "Azure AI", "Tableau"
-        ]
-
-        self.currently_learning = [
-            "Advanced Geospatial Analysis → GeoPandas + Shapely",
-            "LLM Fine-Tuning          → LoRA / QLoRA techniques",
-            "MLOps                    → Docker + CI/CD pipelines",
-        ]
-
-        self.fun_fact = (
-            "Physics grad who fell in love with data — "
-            "I debug the world one dataset at a time"
-        )
-
-    def motto(self) -> str:
-        return "Raw data is just noise until you ask the right question."
-
-me = GowthamSargunam()
-print(me.motto())
-```
-
-<br clear="right"/>
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
