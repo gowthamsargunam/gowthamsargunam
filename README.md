@@ -23,6 +23,7 @@
 ## 👨‍💻 About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+Where data meets curiosity, insights come to life — blending analytics, AI, and a relentless passion for making data work smarter. From geospatial mapping at Deduce Technologies to building real-time detection systems and AI-powered applications, every project I take on is driven by genuine love for the craft. The journey doesn't stop at analysis; the real goal is engineering the insights that power the decisions of tomorrow.
 
 ## 🛠️ Tech Stack
 
