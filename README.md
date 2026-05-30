@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Jr.+Data+Analyst+%7C+AI+Engineer;Geospatial+Intelligence+%7C+Python+%7C+SQL;Building+Real-Time+Detection+Systems;Turning+Raw+Data+into+Decisions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Jr.+Analyst+%7C+Data+Analytics+%26+AI;Geospatial+Intelligence+%7C+Python+%7C+SQL;Building+Real-Time+Detection+Systems;Turning+Raw+Data+into+Decisions" />
 </p>
 
 ---
@@ -265,3 +265,4 @@ print(me.motto())
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 </p>
+
