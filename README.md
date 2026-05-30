@@ -26,7 +26,8 @@
 
 Where Data meets curiosity, insights come to life — blending analytics, AI, 
 and a relentless passion for making data work smarter.
-The journey doesn't stop at analysis; 
+The journey doesn't stop at analysis;
+
 The real goal is engineering the pipelines that power the decisions of tomorrow
 
 ## 🛠️ Tech Stack
