@@ -22,43 +22,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```python
-class GowthamSargunam:
-    def __init__(self):
-        self.name        = "Gowtham Sargunam"
-        self.role        = "Jr. Analyst — Data Analytics & AI"
-        self.location    = "Salem, Tamil Nadu, India"
-        self.degree      = "M.S. in Data Science, Periyar University"
-        self.email       = "gowthamsargunam1@gmail.com"
-        self.github      = "github.com/gowthamsargunam"
-
-        self.stack = [
-            "Python", "SQL", "QGIS",
-            "PyTorch", "YOLOv5", "FastAPI",
-            "Streamlit", "Azure AI", "Tableau"
-        ]
-
-        self.currently_learning = [
-            "Advanced Geospatial Analysis → GeoPandas + Shapely",
-            "LLM Fine-Tuning          → LoRA / QLoRA techniques",
-            "MLOps                    → Docker + CI/CD pipelines",
-        ]
-
-        self.fun_fact = (
-            "Physics grad who fell in love with data — "
-            "I debug the world one dataset at a time"
-        )
-
-    def motto(self) -> str:
-        return "Raw data is just noise until you ask the right question."
-
-me = GowthamSargunam()
-print(me.motto())
-```
-
-<br clear="right"/>
+Where data meets curiosity, insights come to life — blending analytics, AI, and a relentless passion for making data work smarter. From geospatial mapping at Deduce Technologies to building real-time detection systems and AI-powered applications, every project I take on is driven by genuine love for the craft. The journey doesn't stop at analysis; the real goal is engineering the insights that power the decisions of tomorrow.
 
 ---
 
@@ -107,7 +71,7 @@ print(me.motto())
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/gowthamsargunam">
@@ -265,4 +229,3 @@ print(me.motto())
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 </p>
-
