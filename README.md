@@ -176,7 +176,7 @@ The real goal is engineering the pipelines that power the decisions of tomorrow
 
 <div align="center">
 
-| 🏆 | Achievement | Details |
+| 🏆 | ACHIEVEMENT | DETAIL |
 |:--:|:------------|:--------|
 | 👥 | **Event Leader & Coordinator** | Led university-level inter-department competition with **10 teams & 20 participants** |
 | 🤖 | **AI Accuracy Milestone** | Achieved **92% response accuracy** with Azure GPT-4.1 in AI Tutor app |
