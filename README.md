@@ -29,7 +29,7 @@ class GowthamSargunam:
     def __init__(self):
         self.name        = "Gowtham Sargunam"
         self.role        = "Jr. Analyst — Data Analytics & AI"
-        self.location    = "Salem, Tamil Nadu, India 📍"
+        self.location    = "Salem, Tamil Nadu, India"
         self.degree      = "M.S. in Data Science, Periyar University"
         self.email       = "gowthamsargunam1@gmail.com"
         self.github      = "github.com/gowthamsargunam"
@@ -48,7 +48,7 @@ class GowthamSargunam:
 
         self.fun_fact = (
             "Physics grad who fell in love with data — "
-            "I debug the world one dataset at a time 🌍"
+            "I debug the world one dataset at a time"
         )
 
     def motto(self) -> str:
@@ -107,7 +107,7 @@ print(me.motto())
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/gowthamsargunam">
