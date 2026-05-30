@@ -24,7 +24,10 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-Where data meets curiosity, insights come to life — blending analytics, AI, and a relentless passion for making data work smarter. The journey doesn't stop at analysis; the real goal is engineering the pipelines that power the decisions of tomorrow
+Where Data meets curiosity, insights come to life — blending analytics, AI, 
+and a relentless passion for making data work smarter.
+The journey doesn't stop at analysis; 
+The real goal is engineering the pipelines that power the decisions of tomorrow
 
 ## 🛠️ Tech Stack
 
