@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gowtham%20Sargunam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Turning%20Raw%20Data%20into%20Decisions%20%7C%20Data%20Analytics%20%26%20AI&descAlignY=62&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0d1117&height=180&section=header&text=Gowtham%20Sargunam&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Turning%20Raw%20Data%20into%20Decisions%20%7C%20Data%20Analytics%20%26%20AI&descAlignY=60&descSize=16" />
 </p>
 
 <p align="center">
@@ -22,13 +22,9 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+Where data meets curiosity, insights come to life — blending analytics, AI, and a relentless passion for making data work smarter. From geospatial mapping at Deduce Technologies to building real-time detection systems and AI-powered applications, every project I take on is driven by genuine love for the craft. The journey doesn't stop at analysis; the real goal is engineering the insights that power the decisions of tomorrow.
 
-Where Data meets curiosity, insights come to life — blending analytics, AI, 
-and a relentless passion for making data work smarter.
-The journey doesn't stop at analysis;
-
-The real goal is engineering the pipelines that power the decisions of tomorrow
+---
 
 ## 🛠️ Tech Stack
 
@@ -75,7 +71,7 @@ The real goal is engineering the pipelines that power the decisions of tomorrow
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/gowthamsargunam">
@@ -176,7 +172,7 @@ The real goal is engineering the pipelines that power the decisions of tomorrow
 
 <div align="center">
 
-| 🏆 | ACHIEVEMENT | DETAIL |
+| 🏆 | Achievement | Details |
 |:--:|:------------|:--------|
 | 👥 | **Event Leader & Coordinator** | Led university-level inter-department competition with **10 teams & 20 participants** |
 | 🤖 | **AI Accuracy Milestone** | Achieved **92% response accuracy** with Azure GPT-4.1 in AI Tutor app |
@@ -233,4 +229,3 @@ The real goal is engineering the pipelines that power the decisions of tomorrow
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 </p>
-
