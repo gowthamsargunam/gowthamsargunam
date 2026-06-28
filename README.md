@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=gowthamsargunam&color=70a5fd&style=flat-square&label=Profile+Views">
+  <a href="https://komarev.com/ghpvc/?username=gowthamsargunam&amp;color=70a5fd&amp;style=flat-square&amp;label=Profile+Views">
     <img src="https://komarev.com/ghpvc/?username=gowthamsargunam&amp;color=70a5fd&amp;style=flat-square&amp;label=Profile+Views" />
   </a>
   <a href="https://linkedin.com/in/gowtham-sargunam">
-    <img src="https://img.shields.io/badge/LinkedIn-Gowtham%20Sargunam-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Gowtham%20Sargunam-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" />
   </a>
   <a href="mailto:gowthamsargunam1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-gowthamsargunam1-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-gowthamsargunam1-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" />
   </a>
 </p>
 
@@ -30,44 +30,44 @@ Where data meets curiosity, insights come to life — blending analytics, AI, an
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white)
 
 **AI / ML**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
-![TinyLlama](https://img.shields.io/badge/TinyLlama-FF6B6B?style=flat-square&logo=llama&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white)
+![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=flat-square&amp;logo=yolo&amp;logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white)
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&amp;logo=openai&amp;logoColor=white)
+![TinyLlama](https://img.shields.io/badge/TinyLlama-FF6B6B?style=flat-square&amp;logo=llama&amp;logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&amp;logo=scikit-learn&amp;logoColor=white)
 
 **Frameworks**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white)
 
 **Cloud & DevOps**
 
-![Azure](https://img.shields.io/badge/Azure%20AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure%20AI-0078D4?style=flat-square&amp;logo=microsoftazure&amp;logoColor=white)
 
 **Geospatial**
 
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=python&logoColor=white)
-![Shapely](https://img.shields.io/badge/Shapely-1F77B4?style=flat-square&logo=python&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&amp;logo=qgis&amp;logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&amp;logo=python&amp;logoColor=white)
+![Shapely](https://img.shields.io/badge/Shapely-1F77B4?style=flat-square&amp;logo=python&amp;logoColor=white)
 
 **Data & Visualization**
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&amp;logo=tableau&amp;logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&amp;logo=microsoftexcel&amp;logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white)
 
 **Tools / IDEs**
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&amp;logo=pycharm&amp;logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white)
 
 ---
 
