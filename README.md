@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,100:0d1117&amp;height=180&amp;section=header&amp;text=Gowtham%20Sargunam&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Turning%20Raw%20Data%20into%20Decisions%20%7C%20Data%20Analytics%20%26%20AI&amp;descAlignY=60&amp;descSize=16" />
+  <img src="https://raw.githubusercontent.com/gowthamsargunam/gowthamsargunam/main/Gowtham%20Sargunam%201.png" alt="Gowtham Sargunam Banner" width="100%" />
 </p>
 
 <p align="center">
