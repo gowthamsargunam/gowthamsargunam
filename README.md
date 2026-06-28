@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0d1117&height=180&section=header&text=Gowtham%20Sargunam&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Turning%20Raw%20Data%20into%20Decisions%20%7C%20Data%20Analytics%20%26%20AI&descAlignY=60&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,100:0d1117&amp;height=180&amp;section=header&amp;text=Gowtham%20Sargunam&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Turning%20Raw%20Data%20into%20Decisions%20%7C%20Data%20Analytics%20%26%20AI&amp;descAlignY=60&amp;descSize=16" />
 </p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=gowthamsargunam&color=70a5fd&style=flat-square&label=Profile+Views">
-    <img src="https://komarev.com/ghpvc/?username=gowthamsargunam&color=70a5fd&style=flat-square&label=Profile+Views" />
+    <img src="https://komarev.com/ghpvc/?username=gowthamsargunam&amp;color=70a5fd&amp;style=flat-square&amp;label=Profile+Views" />
   </a>
   <a href="https://linkedin.com/in/gowtham-sargunam">
     <img src="https://img.shields.io/badge/LinkedIn-Gowtham%20Sargunam-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Jr.+Analyst+%7C+Data+Analytics+%26+AI;Geospatial+Intelligence+%7C+Python+%7C+SQL;Building+Real-Time+Detection+Systems;Turning+Raw+Data+into+Decisions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Jr.+Analyst+%7C+Data+Analytics+%26+AI;Geospatial+Intelligence+%7C+Python+%7C+SQL;Building+Real-Time+Detection+Systems;Turning+Raw+Data+into+Decisions" />
 </p>
 
 ---
@@ -75,10 +75,10 @@ Where data meets curiosity, insights come to life — blending analytics, AI, an
 
 <div align="center">
   <a href="https://github.com/gowthamsargunam">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gowthamsargunam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gowthamsargunam&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10"/>
   </a>
   <a href="https://github.com/gowthamsargunam">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamsargunam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamsargunam&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10"/>
   </a>
 </div>
 
@@ -87,7 +87,7 @@ Where data meets curiosity, insights come to life — blending analytics, AI, an
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gowthamsargunam&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=gowthamsargunam&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10" />
 </p>
 
 ---
@@ -95,7 +95,7 @@ Where data meets curiosity, insights come to life — blending analytics, AI, an
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gowthamsargunam&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gowthamsargunam&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" />
 </p>
 
 ---
@@ -103,7 +103,7 @@ Where data meets curiosity, insights come to life — blending analytics, AI, an
 ## 🏆 Trophy Wall
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gowthamsargunam&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gowthamsargunam&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4" />
 </p>
 
 ---
@@ -227,5 +227,5 @@ Where data meets curiosity, insights come to life — blending analytics, AI, an
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" />
 </p>
